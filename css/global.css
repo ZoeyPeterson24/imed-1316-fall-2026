@@ -1,0 +1,18 @@
+/*
+60 of #227D91
+30 of #BAF2FF
+10 of #FFE5BA
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #227D91;
+
+    /* var(--secondaryColor) */
+    --secondaryColor: #BAF2FF;
+
+    /* var(--accentColor) */
+    --accentColor: #FFE5BA;
+
+}
